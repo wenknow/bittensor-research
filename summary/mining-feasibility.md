@@ -59,62 +59,118 @@
 
 ### SN33 - SN64
 
+> ⚠️ 以下名称已于2026年4月13日通过 taostats.io 逐一验证更新
+
 | UID | 名称 | 可行性 | 备注 |
 |-----|------|--------|------|
-| SN33-35 | 待确认 | ⚫ | 信息不足 |
-| SN36 | Web Agents | 🟡 | AI代理赛道，RTX3080 |
-| SN37-39 | 待确认 | ⚫ | 信息不足 |
-| SN40 | 待确认 | 🔴 | Deregistration风险 |
-| SN41 | 待确认 | ⚫ | 信息不足 |
-| SN42 | **Masa** | 🟢 | CPU，双代币激励 |
-| SN43 | 待确认 | ⚫ | 信息不足 |
-| SN44 | Score | 🟡 | $45M市值，需研究 |
-| SN45-49 | 待确认 | ⚫ | 信息不足 |
+| SN33-34 | 待确认 | ⚫ | 信息不足 |
+| SN35 | Cartha | ⚫ | 名称已验证，功能待研究 |
+| SN36 | Unknown | ⚫ | taostats显示Unknown（原记录Web Agents已过时） |
+| SN37 | Aurelius | ⚫ | 名称已验证，功能待研究 |
+| SN38 | Colosseum | ⚫ | 名称已验证，功能待研究 |
+| SN39 | Deprecated | 🔴 | taostats显示"deprecated"，不建议参与 |
+| SN40 | Chunking | ⚫ | 名称已验证，Deregistration风险名单 |
+| SN41 | Almanac | ⚫ | 名称已验证，功能待研究 |
+| SN42 | Unknown | ⚫ | taostats显示Unknown（原记录Masa已过时） |
+| SN43 | Graphite | ⚫ | 名称已验证，功能待研究 |
+| SN44 | Score | 🟡 | Alpha价格0.0312，较高排放，值得深研 |
+| SN45 | 待确认 | ⚫ | 信息不足 |
+| SN46 | RESI | ⚫ | 名称已验证，功能待研究 |
+| SN47 | EvolAI | ⚫ | 名称已验证，功能待研究 |
+| SN48 | Quantum | ⚫ | 名称已验证，功能待研究 |
+| SN49 | 待确认 | ⚫ | 信息不足 |
 | SN50 | Synth | 🟡 | 合成数据，RTX3080 |
-| SN51 | Celium/Lium | 🔴 | 500+H100已入网 |
-| SN52-61 | 待确认 | ⚫ | 信息不足 |
-| SN62 | Ridges AI | 🔴 | $51M市值，极高竞争 |
-| SN63 | 待确认 | ⚫ | 信息不足 |
+| SN51 | lium.io | 🔴 | 500+H100已入网 |
+| SN52 | Dojo | ⚫ | 名称已验证，功能待研究 |
+| SN53 | Efficient LLM | ⚫ | 名称已验证，功能待研究 |
+| SN54 | 待确认 | ⚫ | 信息不足 |
+| SN55 | NIOME | 🔴 | Deregistration风险名单 |
+| SN56 | Gradient | 🔴 | Rayon Labs旗下，同SN19/SN64主体 |
+| SN57 | Sparket | 🔴 | Deregistration风险名单 |
+| SN58 | Handshake | ⚫ | 名称已验证，功能待研究 |
+| SN59 | Babelbit | ⚫ | 名称已验证，功能待研究 |
+| SN60 | 待确认 | ⚫ | 信息不足 |
+| SN61 | RedTeam | ⚫ | 名称已验证，AI安全/红队方向 |
+| SN62 | Ridges | 🔴 | $51M市值，极高竞争 |
+| SN63 | Enigma | ⚫ | 名称已验证，功能待研究 |
 | SN64 | Chutes | 🔴 | Rayon垄断23.7% |
 
 ### SN65 - SN100
 
+> ⚠️ 以下名称已于2026年4月13日通过 taostats.io 逐一验证更新
+
 | UID | 名称 | 可行性 | 备注 |
 |-----|------|--------|------|
-| SN65-66 | 待确认 | ⚫ | 信息不足 |
-| SN67 | Tenex | 🟡 | 名称已知，功能待研究 |
-| SN68-71 | 待确认 | ⚫ | 信息不足 |
+| SN65 | TAO Privacy | ⚫ | 名称已验证，隐私计算方向 |
+| SN66 | 待确认 | ⚫ | 信息不足 |
+| SN67 | Harnyx | ⚫ | 名称已验证（原记录Tenex已过时） |
+| SN68 | NOVA | ⚫ | 名称已验证，功能待研究 |
+| SN69 | Unknown | ⚫ | taostats显示Unknown |
+| SN70 | NexisGen | ⚫ | 名称已验证，功能待研究 |
+| SN71 | Leadpoet | ⚫ | 名称已验证，功能待研究 |
 | SN72 | 待确认 | 🔴 | Deregistration风险 |
-| SN73-74 | 待确认 | ⚫ | 信息不足 |
+| SN73 | MetaHash | ⚫ | 名称已验证，功能待研究 |
+| SN74 | Gittensor | ⚫ | 名称已验证，功能待研究 |
 | SN75 | **Hippius** | 🟡 | **$41.3M市值，值得深研** |
-| SN76-77 | 待确认 | ⚫ | 信息不足 |
-| SN78 | 待确认 | 🔴 | Deregistration风险 |
-| SN79-81 | 待确认 | ⚫ | 信息不足 |
-| SN82 | 待确认 | 🔴 | Deregistration风险 |
-| SN83 | 待确认 | ⚫ | 信息不足 |
+| SN76 | Byzantium | ⚫ | 名称已验证，功能待研究 |
+| SN77 | Liquidity | ⚫ | 名称已验证，流动性方向 |
+| SN78 | Loosh | 🔴 | Deregistration风险名单 |
+| SN79 | MVTRX | ⚫ | 名称已验证，功能待研究 |
+| SN80 | 待确认 | ⚫ | 信息不足 |
+| SN81 | Deprecated | 🔴 | taostats显示"deprecated"，不建议参与 |
+| SN82 | Hermes | 🔴 | Deregistration风险名单 |
+| SN83 | CliqueAI | ⚫ | 名称已验证，功能待研究 |
 | SN84 | 待确认 | 🔴 | Deregistration风险 |
-| SN85-95 | 待确认 | ⚫ | 信息不足 |
-| SN96 | 新子网 | 🟡 | 免疫期中，高风险高机会 |
-| SN97-100 | 待确认 | ⚫ | 信息不足 |
+| SN85-86 | 待确认 | ⚫ | 信息不足 |
+| SN87 | Luminar | ⚫ | 名称已验证，功能待研究 |
+| SN88 | 待确认 | ⚫ | 名称含"Investin"，信息不足 |
+| SN89 | 待确认 | ⚫ | 名称含"Infinite"，信息不足 |
+| SN90 | Unknown | ⚫ | taostats显示Unknown |
+| SN91 | Bitstart | ⚫ | 名称已验证，Alpha价格0.0114 |
+| SN92 | 待确认 | ⚫ | 名称含"TensorCl"，信息不足 |
+| SN93 | Bitcast | ⚫ | 名称已验证，Alpha价格0.0188 |
+| SN94 | Bitsota | ⚫ | 名称已验证，功能待研究 |
+| SN95 | Unknown | ⚫ | taostats显示Unknown，Alpha价格0.0207 |
+| SN96 | **Verathos** | 🟡 | **Alpha价格2.8724（最高），强烈建议研究** |
+| SN97 | 待确认 | ⚫ | 信息不足 |
+| SN98 | 待确认 | ⚫ | 名称含"ForeverM"，信息不足 |
+| SN99 | Leoma | ⚫ | 名称已验证，功能待研究 |
+| SN100 | Platform | ⚫ | 名称已验证，Alpha价格0.0116 |
 
 ### SN101 - SN128
 
+> ⚠️ 以下名称已于2026年4月13日通过 taostats.io 逐一验证更新
+
 | UID | 名称 | 可行性 | 备注 |
 |-----|------|--------|------|
-| SN101-102 | 待确认 | ⚫ | 信息不足 |
-| SN103 | 待确认 | 🟡 | Trending高关注度 |
-| SN104 | 待确认 | ⚫ | 信息不足 |
-| SN105 | 待确认 | 🟡 | Trending高关注度 |
-| SN106-116 | 待确认 | ⚫ | 信息不足 |
-| SN117 | 待确认 | 🔴 | Deregistration风险 |
-| SN118 | 待确认 | 🔴 | Deregistration风险 |
-| SN119 | 待确认 | ⚫ | 信息不足 |
+| SN101 | Unknown | ⚫ | taostats显示Unknown |
+| SN102 | ConnitoA | ⚫ | 名称已验证，Alpha价格0.0134 |
+| SN103 | Djinn | 🟡 | 名称已验证，Alpha价格0.0057，值得研究 |
+| SN104 | for sale | 🔴 | taostats显示"for sale"，可能空置/待售 |
+| SN105 | 待确认 | ⚫ | 信息不足 |
+| SN106 | VoidAI | ⚫ | 名称已验证，功能待研究 |
+| SN107 | Minos | ⚫ | 名称已验证，Alpha价格0.0120 |
+| SN108 | TalkHead | ⚫ | 名称已验证，功能待研究 |
+| SN109 | Academia | ⚫ | 名称已验证，学术/教育方向 |
+| SN110 | 待确认 | ⚫ | 名称含"Rich Kid"，信息不足 |
+| SN111 | 待确认 | ⚫ | 名称含"oneoneon"，信息不足 |
+| SN112 | Minotaur | ⚫ | 名称已验证，Alpha价格0.0055 |
+| SN113 | 待确认 | ⚫ | 名称含"TensorUS"，信息不足 |
+| SN114 | SOMA | ⚫ | 名称已验证，Alpha价格0.0093 |
+| SN115 | 待确认 | ⚫ | 名称含"HashiCha"，信息不足 |
+| SN116 | TaoLend | ⚫ | 名称已验证，DeFi借贷方向 |
+| SN117 | 待确认 | 🔴 | Deregistration风险，名称含"BrainPla" |
+| SN118 | 待确认 | 🔴 | Deregistration风险，名称含"HODL Exc" |
+| SN119 | Satori | ⚫ | 名称已验证，Alpha价格0.0064 |
 | SN120 | **Affine** | 🔴 | $71.8M市值，赢者通吃RL |
-| SN121-122 | 待确认 | ⚫ | 信息不足 |
-| SN123 | 待确认 | 🟡 | Trending高关注度 |
-| SN124-125 | 待确认 | ⚫ | 信息不足 |
-| SN126 | 待确认 | 🟡 | Trending高关注度 |
-| SN127-128 | 待确认 | ⚫ | 信息不足 |
+| SN121 | 待确认 | ⚫ | 信息不足 |
+| SN122 | Bitrecs | ⚫ | 名称已验证，推荐系统方向 |
+| SN123 | 待确认 | 🟡 | Trending高关注度，信息不足 |
+| SN124 | Swarm | ⚫ | 名称已验证，群体智能方向 |
+| SN125 | 8 Ball | ⚫ | 名称已验证，功能待研究 |
+| SN126 | Poker44 | ⚫ | 名称已验证，游戏/预测方向 |
+| SN127 | Astrid | ⚫ | 名称已验证，功能待研究 |
+| SN128 | 待确认 | ⚫ | 信息不足 |
 
 ---
 

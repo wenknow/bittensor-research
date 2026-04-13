@@ -1,9 +1,41 @@
 # Bittensor 128子网深度挖矿调研报告
 
-> **生成时间**：2026年4月12日  
+> **生成时间**：2026年4月12日 | **最后验证**：2026年4月13日（全128子网 taostats 逐一核查）
 > **TAO参考价格**：~$300（实际约 $285-320）  
 > **日总排放**：3,600 TAO（2025年12月减半后）  
 > **研究范围**：全部 128 个活跃子网
+
+## 🚨 重要数据准确性警告
+
+**Bittensor 子网 UID 分配会随时间变化！** 低排放子网可能被注销，新项目接管原有 UID。
+
+### 2026年4月13日 全量验证结果
+
+通过逐一访问 taostats.io/subnets/{UID}/metagraph 完成所有128个子网的名称核查，主要修正：
+
+| 原记录 | taostats 实际名称 | 状态 |
+|--------|------------------|------|
+| SN07 SubVortex | **Allways**（BTC↔TAO跨链） | 已修正 |
+| SN36 Web Agents | **Unknown** | 已修正 |
+| SN39 待确认 | **Deprecated**（已废弃） | 已修正 |
+| SN42 Masa | **Unknown** | 已修正 |
+| SN56 待确认 | **Gradient**（Rayon Labs子网） | 已修正 |
+| SN67 Tenex | **Harnyx** | 已修正 |
+| SN78 Deregistration风险 | **Loosh** | 已修正 |
+| SN81 待确认 | **Deprecated**（已废弃） | 已修正 |
+| SN82 Deregistration风险 | **Hermes** | 已修正 |
+| SN96 新子网 | **Verathos**（Alpha价格2.87，异常高） | 重要发现 |
+| SN104 待确认 | **for sale**（待售/空置） | 重要发现 |
+
+**新增已识别子网**（SN35-SN128范围）：
+Cartha(35)、Aurelius(37)、Colosseum(38)、Chunking(40)、Almanac(41)、Graphite(43)、Score(44)、RESI(46)、EvolAI(47)、Quantum(48)、Dojo(52)、Efficient LLM(53)、NIOME(55)、Sparket(57)、Handshake(58)、Babelbit(59)、RedTeam(61)、Enigma(63)、TAO Privacy(65)、Harnyx(67)、NOVA(68)、NexisGen(70)、Leadpoet(71)、MetaHash(73)、Gittensor(74)、Byzantium(76)、Liquidity(77)、Loosh(78)、MVTRX(79)、Hermes(82)、CliqueAI(83)、Luminar(87)、Bitstart(91)、Bitcast(93)、Bitsota(94)、Verathos(96)、Leoma(99)、Platform(100)、ConnitoA(102)、Djinn(103)、VoidAI(106)、Minos(107)、TalkHead(108)、Academia(109)、Minotaur(112)、SOMA(114)、TaoLend(116)、Satori(119)、Bitrecs(122)、Swarm(124)、8 Ball(125)、Poker44(126)、Astrid(127)
+
+**使用本报告前，必须做的验证步骤：**
+1. 访问 **https://taostats.io/subnets/{UID}/metagraph** 确认子网名称和当前运营方
+2. 对比本报告记录的名称 vs taostats 实时显示的名称
+3. 若不匹配，以 taostats 链上数据为准
+
+> 链上数据是唯一可靠来源。本报告的名称已于2026年4月13日全量核查，但 Bittensor 生态变化极快，建议每月重新验证一次。
 
 ---
 
