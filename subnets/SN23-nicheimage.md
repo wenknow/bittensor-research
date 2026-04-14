@@ -1,15 +1,22 @@
-# SN23 - NicheImage
+# SN23 - Trishool（原 NicheImage）
+
+## ⚠️ 数据修正说明
+> **2026年4月14日 taostats.io 验证**：SN23 当前名称为 **Trishool**，原记录 **NicheImage**（NicheTensor）已不在此 UID。
+> ROI 数据完全失效，需重新评估。
+
+---
 
 ## 基本信息
 | 字段 | 数据 |
 |------|------|
 | UID | SN23 |
-| 名称 | NicheImage |
-| 运营方/团队 | NicheTensor |
-| 子网类型 | 去中心化图像生成 |
-| GitHub | https://github.com/NicheTensor/NicheImage |
+| 原名称 | NicheImage（原运营方：NicheTensor） |
+| **当前名称** | **Trishool** |
+| 运营方/团队 | 待确认（需访问 taostats.io/subnets/23） |
+| 子网类型 | 待确认 |
+| GitHub | 待确认 |
 | 官网 | — |
-| 子网状态 | 活跃 |
+| 子网状态 | 活跃（Alpha 价格 0.0042） |
 
 ## 功能描述
 

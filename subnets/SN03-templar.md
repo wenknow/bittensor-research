@@ -1,15 +1,23 @@
 # SN03 - τemplar (Templar)
 
+## ⚠️ 数据修正说明
+> **2026年4月14日 taostats.io 验证**：SN03 页面标题显示 **"deprecat..."**，原 τemplar 子网可能已被废弃/替换。
+> taostats 显示的 Alpha 价格为 0.0296，子网状态需在链上确认。
+> **建议行动前访问 https://taostats.io/subnets/3 确认当前运营方。**
+
+---
+
 ## 基本信息
 | 字段 | 数据 |
 |------|------|
 | UID | SN03 |
-| 名称 | τemplar |
-| 运营方/团队 | MyShell / Templar团队 |
-| 子网类型 | 大模型分布式训练 |
-| GitHub | https://github.com/tplr-ai/templar |
+| 原名称 | τemplar（原 $134.9M 市值，全网第一） |
+| **当前名称** | **deprecat...（taostats 2026年4月14日显示）** |
+| 运营方/团队 | 待确认（原为 MyShell / Templar团队） |
+| 子网类型 | 待确认（原为大模型分布式训练） |
+| GitHub | https://github.com/tplr-ai/templar（原链接，可能已失效） |
 | 官网 | — |
-| 子网状态 | 活跃（头部子网） |
+| 子网状态 | **⚠️ 疑似已废弃——需链上确认** |
 
 ## 功能描述
 

@@ -1,15 +1,22 @@
-# SN05 - OpenKaito
+# SN05 - Hone（原 OpenKaito）
+
+## ⚠️ 数据修正说明
+> **2026年4月14日 taostats.io 验证**：SN05 当前名称为 **Hone**（Alpha 价格 0.0180），原记录 **OpenKaito** 已不在此 UID。
+> ROI 数据完全失效，需重新评估。
+
+---
 
 ## 基本信息
 | 字段 | 数据 |
 |------|------|
 | UID | SN05 |
-| 名称 | OpenKaito |
-| 运营方/团队 | OpenKaito 团队 |
-| 子网类型 | Web3 搜索 / 去中心化索引 |
-| GitHub | https://github.com/OpenKaito/openkaito |
+| 原名称 | OpenKaito（原运营方：OpenKaito 团队） |
+| **当前名称** | **Hone** |
+| 运营方/团队 | 待确认（需访问 taostats.io/subnets/5） |
+| 子网类型 | 待确认 |
+| GitHub | 待确认 |
 | 官网 | — |
-| 子网状态 | 活跃 |
+| 子网状态 | 活跃（Alpha 价格 0.0180） |
 
 ## 功能描述
 

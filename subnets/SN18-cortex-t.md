@@ -1,15 +1,22 @@
-# SN18 - Cortex.T
+# SN18 - Zeus（原 Cortex.T）
+
+## ⚠️ 数据修正说明
+> **2026年4月14日 taostats.io 验证**：SN18 当前名称为 **Zeus**，原记录 **Cortex.T**（Corcel API）已不在此 UID。
+> ROI 数据完全失效，需重新评估。
+
+---
 
 ## 基本信息
 | 字段 | 数据 |
 |------|------|
 | UID | SN18 |
-| 名称 | Cortex.T |
-| 运营方/团队 | Corcel API（floppyfish） |
-| 子网类型 | AI 开发平台 / 合成数据生成 |
-| GitHub | https://github.com/corcel-api/cortex.t |
-| 官网 | https://corcel.io |
-| 子网状态 | 活跃 |
+| 原名称 | Cortex.T（原运营方：Corcel API） |
+| **当前名称** | **Zeus** |
+| 运营方/团队 | 待确认（需访问 taostats.io/subnets/18） |
+| 子网类型 | 待确认 |
+| GitHub | 待确认 |
+| 官网 | — |
+| 子网状态 | 活跃（Alpha 价格 0.0072） |
 
 ## 功能描述
 

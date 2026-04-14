@@ -1,15 +1,22 @@
-# SN28 - Foundry S&P 500 Oracle
+# SN28 - Unknown（原 Foundry S&P 500 Oracle）
+
+## ⚠️ 数据修正说明
+> **2026年4月14日 taostats.io 验证**：SN28 当前名称为 **Unknown**（taostats 显示未命名/未注册），原记录 **Foundry S&P 500 Oracle** 已不在此 UID。
+> ROI 数据完全失效，不建议参与。
+
+---
 
 ## 基本信息
 | 字段 | 数据 |
 |------|------|
 | UID | SN28 |
-| 名称 | Foundry S&P 500 Oracle |
-| 运营方/团队 | teast21 / Foundry |
-| 子网类型 | 金融价格预测 Oracle |
-| GitHub | https://github.com/teast21/snpOracle |
+| 原名称 | Foundry S&P 500 Oracle（原运营方：teast21 / Foundry） |
+| **当前名称** | **Unknown（taostats 显示未命名）** |
+| 运营方/团队 | 未知（需访问 taostats.io/subnets/28） |
+| 子网类型 | 未知 |
+| GitHub | 待确认 |
 | 官网 | — |
-| 子网状态 | 活跃 |
+| 子网状态 | Alpha 价格 0.0102，但无已知运营方 |
 
 ## 功能描述
 

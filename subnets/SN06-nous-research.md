@@ -1,15 +1,22 @@
-# SN06 - Nous Research (Finetuning)
+# SN06 - Numinous（原 Nous Research Finetuning）
+
+## ⚠️ 数据修正说明
+> **2026年4月14日 taostats.io 验证**：SN06 当前名称为 **Numinous**，原记录 **Nous Research（Finetuning）** 已不在此 UID。
+> 原 Nous Research 运营方已迁移。ROI 数据完全失效，需重新评估。
+
+---
 
 ## 基本信息
 | 字段 | 数据 |
 |------|------|
 | UID | SN06 |
-| 名称 | Nous Research / Finetuning Subnet |
-| 运营方/团队 | Nous Research |
-| 子网类型 | LLM 持续微调 |
-| GitHub | https://github.com/NousResearch/finetuning-subnet |
-| 官网 | https://nousresearch.com |
-| 子网状态 | 活跃 |
+| 原名称 | Nous Research / Finetuning Subnet（原运营方：Nous Research） |
+| **当前名称** | **Numinous** |
+| 运营方/团队 | 待确认（需访问 taostats.io/subnets/6） |
+| 子网类型 | 待确认 |
+| GitHub | 待确认 |
+| 官网 | — |
+| 子网状态 | 活跃（Alpha 价格 0.0053） |
 
 ## 功能描述
 

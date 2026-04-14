@@ -1,15 +1,21 @@
-# SN09 - Pre-Training
+# SN09 - iota（原 Pre-Training）
+
+## ⚠️ 数据修正说明
+> **2026年4月14日 taostats.io 验证**：SN09 当前名称为 **iota**（Alpha 价格 0.0244）。原记录 "Pre-Training / iota" 中 iota 名称已在此前验证中确认为当前名称。
+
+---
 
 ## 基本信息
 | 字段 | 数据 |
 |------|------|
 | UID | SN09 |
-| 名称 | Pre-Training / iota |
-| 运营方/团队 | RaoFoundation / Const |
-| 子网类型 | 大规模语言模型预训练 |
-| GitHub | https://github.com/RaoFoundation/pretraining |
+| 原名称 | Pre-Training（原运营方：RaoFoundation / Const） |
+| **当前名称** | **iota** |
+| 运营方/团队 | 待确认（需访问 taostats.io/subnets/9） |
+| 子网类型 | 待确认（原为大规模语言模型预训练） |
+| GitHub | https://github.com/RaoFoundation/pretraining（原链接） |
 | 官网 | — |
-| 子网状态 | 活跃 |
+| 子网状态 | 活跃（Alpha 价格 0.0244） |
 
 ## 功能描述
 

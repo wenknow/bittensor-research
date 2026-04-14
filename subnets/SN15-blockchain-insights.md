@@ -1,15 +1,22 @@
-# SN15 - Blockchain Insights
+# SN15 - ORO（原 Blockchain Insights）
+
+## ⚠️ 数据修正说明
+> **2026年4月14日 taostats.io 验证**：SN15 当前名称为 **ORO**，原记录 **Blockchain Insights** 已不在此 UID。
+> ROI 数据完全失效，需重新评估。
+
+---
 
 ## 基本信息
 | 字段 | 数据 |
 |------|------|
 | UID | SN15 |
-| 名称 | Blockchain Insights |
-| 运营方/团队 | blockchain-insights |
-| 子网类型 | 链上数据分析 / 图数据库 |
-| GitHub | https://github.com/blockchain-insights/blockchain-data-subnet |
+| 原名称 | Blockchain Insights（原运营方：blockchain-insights） |
+| **当前名称** | **ORO** |
+| 运营方/团队 | 待确认（需访问 taostats.io/subnets/15） |
+| 子网类型 | 待确认 |
+| GitHub | 待确认 |
 | 官网 | — |
-| 子网状态 | 活跃（中低活跃度） |
+| 子网状态 | 活跃（Alpha 价格 0.0147） |
 
 ## 功能描述
 

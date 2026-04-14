@@ -1,15 +1,22 @@
-# SN19 - Nineteen
+# SN19 - blockmac（原 Nineteen / Rayon Labs）
+
+## ⚠️ 数据修正说明
+> **2026年4月14日 taostats.io 验证**：SN19 当前名称为 **blockmac...（完整名称待确认）**，原记录 **Nineteen**（Rayon Labs）已不在此 UID。
+> ROI 数据完全失效，需重新评估。
+
+---
 
 ## 基本信息
 | 字段 | 数据 |
 |------|------|
 | UID | SN19 |
-| 名称 | Nineteen |
-| 运营方/团队 | Rayon Labs |
-| 子网类型 | 超低延迟 LLM 推理 |
-| GitHub | https://github.com/namoray/vision（前身）|
+| 原名称 | Nineteen（原运营方：Rayon Labs） |
+| **当前名称** | **blockmac...（taostats 显示，完整名称待确认）** |
+| 运营方/团队 | 待确认（需访问 taostats.io/subnets/19） |
+| 子网类型 | 待确认 |
+| GitHub | 待确认 |
 | 官网 | — |
-| 子网状态 | 活跃（头部子网） |
+| 子网状态 | 活跃（Alpha 价格 0.0140） |
 
 ## 功能描述
 

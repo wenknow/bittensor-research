@@ -1,6 +1,6 @@
 # Bittensor 128子网深度挖矿调研报告
 
-> **生成时间**：2026年4月12日 | **最后验证**：2026年4月13日（全128子网 taostats 逐一核查）
+> **生成时间**：2026年4月12日 | **最后验证**：2026年4月14日（SN01-SN34 二次全量核查）
 > **TAO参考价格**：~$300（实际约 $285-320）  
 > **日总排放**：3,600 TAO（2025年12月减半后）  
 > **研究范围**：全部 128 个活跃子网
@@ -9,7 +9,43 @@
 
 **Bittensor 子网 UID 分配会随时间变化！** 低排放子网可能被注销，新项目接管原有 UID。
 
-### 2026年4月13日 全量验证结果
+### 2026年4月14日 SN01-SN34 二次核查（重大更新）
+
+> ⚠️ **触目惊心的发现**：SN01-SN34 范围内绝大多数子网已更换运营方，不只是 SN35+ 范围。
+
+| UID | 原记录 | taostats 当前名称 | Alpha价格 | 状态 |
+|-----|--------|-----------------|-----------|------|
+| SN01 | Text Prompting | **Apex** | 0.0112 | 已修正 |
+| SN01 | Text Prompting | **Apex** | 0.0112 | 已修正 |
+| SN02 | Omron（Inference Labs） | **DSperse** | 0.0087 | 已修正 |
+| SN03 | τemplar（$134.9M市值） | **deprecat...** | 0.0296 | ⚠️ 疑似废弃，重大风险 |
+| SN05 | OpenKaito | **Hone** | 0.0180 | 已修正 |
+| SN06 | Nous Research（Finetuning） | **Numinous** | 0.0053 | 已修正 |
+| SN09 | Pre-Training | **iota** | 0.0244 | 已修正 |
+| SN10 | Apollo ZK | **Swap** | 0.0060 | 已修正 |
+| SN11 | Transcription（Cazure） | **Trajecto...** | 0.0125 | 已修正 |
+| SN12 | ComputeHorde | **Compute...** | 0.0067 | ⚠️ 可能改名，待确认 |
+| SN14 | LLM Defender | **TAOHash** | 0.0089 | 已修正 |
+| SN15 | Blockchain Insights | **ORO** | 0.0147 | 已修正 |
+| SN17 | ThreeGen（PlixML） | **404—GEN** | 0.0148 | 已修正 |
+| SN18 | Cortex.T（Corcel API） | **Zeus** | 0.0072 | 已修正 |
+| SN19 | Nineteen（Rayon Labs） | **blockmac...** | 0.0140 | 已修正 |
+| SN20 | BitAgent（RogueTensor） | **GroundLa...** | 0.0040 | 已修正 |
+| SN23 | NicheImage（NicheTensor） | **Trishool** | 0.0042 | 已修正 |
+| SN24 | Omega Labs | **Quasar** | 0.0147 | 已修正 |
+| SN25 | Hivetrain | **Mainfram...** | 0.0049 | 已修正 |
+| SN26 | Image Alchemy | **Kinitro** | 0.0038 | 已修正 |
+| SN28 | Foundry S&P500 Oracle | **Unknown** | 0.0102 | 已修正，无运营方 |
+| SN29 | Fractal（视频生成） | **Coldint** | 0.0140 | 已修正 |
+| SN31 | NAS Chain | **Halftime** | 0.0043 | 已修正 |
+| SN33 | 待确认 | **ReadyAI** | — | 已识别 |
+| SN34 | 待确认 | **BitMind** | — | 已识别 |
+
+**仍确认正确的子网**：SN04 Targon ✅、SN07 Allways ✅、SN08 Vanta ✅、SN16 BitAds ✅、SN22 Desearch ✅、SN27 Nodexo ✅、SN32 ItsAI ✅
+
+---
+
+### 2026年4月13日 全量验证结果（SN35-SN128）
 
 通过逐一访问 taostats.io/subnets/{UID}/metagraph 完成所有128个子网的名称核查，主要修正：
 
@@ -27,7 +63,7 @@
 | SN96 新子网 | **Verathos**（Alpha价格2.87，异常高） | 重要发现 |
 | SN104 待确认 | **for sale**（待售/空置） | 重要发现 |
 
-**新增已识别子网**（SN35-SN128范围）：
+**已识别子网**（SN35-SN128范围）：
 Cartha(35)、Aurelius(37)、Colosseum(38)、Chunking(40)、Almanac(41)、Graphite(43)、Score(44)、RESI(46)、EvolAI(47)、Quantum(48)、Dojo(52)、Efficient LLM(53)、NIOME(55)、Sparket(57)、Handshake(58)、Babelbit(59)、RedTeam(61)、Enigma(63)、TAO Privacy(65)、Harnyx(67)、NOVA(68)、NexisGen(70)、Leadpoet(71)、MetaHash(73)、Gittensor(74)、Byzantium(76)、Liquidity(77)、Loosh(78)、MVTRX(79)、Hermes(82)、CliqueAI(83)、Luminar(87)、Bitstart(91)、Bitcast(93)、Bitsota(94)、Verathos(96)、Leoma(99)、Platform(100)、ConnitoA(102)、Djinn(103)、VoidAI(106)、Minos(107)、TalkHead(108)、Academia(109)、Minotaur(112)、SOMA(114)、TaoLend(116)、Satori(119)、Bitrecs(122)、Swarm(124)、8 Ball(125)、Poker44(126)、Astrid(127)
 
 **使用本报告前，必须做的验证步骤：**
@@ -35,21 +71,61 @@ Cartha(35)、Aurelius(37)、Colosseum(38)、Chunking(40)、Almanac(41)、Graphit
 2. 对比本报告记录的名称 vs taostats 实时显示的名称
 3. 若不匹配，以 taostats 链上数据为准
 
-> 链上数据是唯一可靠来源。本报告的名称已于2026年4月13日全量核查，但 Bittensor 生态变化极快，建议每月重新验证一次。
+> 链上数据是唯一可靠来源。Bittensor 生态变化极快，建议每月重新验证一次。
 
 ---
 
 ## 🚀 核心结论：最值得立即行动的机会
 
-| 排名 | 子网 | 类型 | 最低门槛 | 月净收益（中性） |
-|------|------|------|----------|-----------------|
-| 🥇 | [SN07 SubVortex](subnets/SN07-subvortex.md) | 基础设施节点 | **CPU VPS（无GPU）** | $370 |
-| 🥈 | [SN27 NI Compute](subnets/SN27-ni-compute.md) | GPU算力市场 | **RTX3090自有** | $1,290 |
-| 🥉 | [SN13 Dataverse](subnets/SN13-dataverse.md) | 数据采集 | **CPU（无GPU）** | $550 |
-| 4 | [SN42 Masa](subnets/SN42-masa.md) | 数据采集 | **CPU（无GPU）** | $500 |
-| 5 | [SN21 Omega Storage](subnets/SN21-omega-storage.md) | 存储 | **CPU + 大存储** | $500 |
-| 6 | [SN08 Taoshi](subnets/SN08-taoshi.md) | 金融预测 | CPU + Polygon API | $1,452（量化专家） |
-| 7 | [SN30 Bettensor](subnets/SN30-bettensor.md) | 体育预测 | **CPU（无GPU）** | $320 |
+> ⚠️ **2026年4月13日全量验证后重大更新**：原TOP榜单中大多数子网已更换运营方，旧ROI数据完全失效。
+> 以下为基于当前验证数据的更新结论。**行动前必须在 taostats.io 核查最新状态。**
+
+### 已验证可继续研究的子网（名称未变）
+
+| 排名 | 子网 | 类型 | 最低门槛 | 备注 |
+|------|------|------|----------|------|
+| 🥇 | [SN22 Desearch](subnets/SN22-desearch.md) | 社交数据 | **CPU + Twitter API** | 名称已验证，方向不变 |
+| 🥈 | [SN13 Data Universe](subnets/SN13-data-universe.md) | 数据采集 | **CPU（无GPU）** | 原Dataverse改名，方向相似 |
+| 🥉 | [SN07 Allways](subnets/SN07-allways.md) | 跨链交换 | CPU + TAO抵押品 | 原SubVortex，**需锁定TAO作抵押，风险增加** |
+
+### 需重新评估的子网（名称已变，旧ROI失效）
+
+**2026年4月14日发现：SN01-SN34 范围大规模更换运营方，以下为所有已变更子网**
+
+| 子网 | 原名称 | 当前名称 | Alpha价格 |
+|------|--------|---------|-----------|
+| SN02 | Omron | **DSperse** | 0.0087 |
+| SN06 | Nous Research | **Numinous** | 0.0053 |
+| SN08 | Taoshi | **Vanta** | 0.0329 |
+| SN09 | Pre-Training | **iota** | 0.0244 |
+| SN10 | Apollo ZK | **Swap** | 0.0060 |
+| SN11 | Transcription | **Trajecto...** | 0.0125 |
+| SN14 | LLM Defender | **TAOHash** | 0.0089 |
+| SN15 | Blockchain Insights | **ORO** | 0.0147 |
+| SN17 | ThreeGen | **404—GEN** | 0.0148 |
+| SN18 | Cortex.T | **Zeus** | 0.0072 |
+| SN19 | Nineteen（Rayon） | **blockmac...** | 0.0140 |
+| SN20 | BitAgent | **GroundLa...** | 0.0040 |
+| SN21 | Omega Storage | **AdTAO** | — |
+| SN23 | NicheImage | **Trishool** | 0.0042 |
+| SN24 | Omega Labs | **Quasar** | 0.0147 |
+| SN25 | Hivetrain | **Mainfram...** | 0.0049 |
+| SN26 | Image Alchemy | **Kinitro** | 0.0038 |
+| SN27 | NI Compute | **Nodexo** | 0.0045 |
+| SN28 | Foundry Oracle | **Unknown** | 0.0102 |
+| SN29 | Fractal | **Coldint** | 0.0140 |
+| SN30 | Bettensor | **Pending** | — |
+| SN31 | NAS Chain | **Halftime** | 0.0043 |
+| SN42 | Masa | **Unknown** | — |
+
+> ⚠️ 以上所有子网的历史 ROI 数据均已失效。行动前必须在 taostats.io 核查当前运营方和挖矿机制。
+
+### 特别关注机会
+
+| 子网 | 名称 | 原因 |
+|------|------|------|
+| [SN96](subnets/SN96-verathos.md) | **Verathos** | Alpha价格2.87（全网最高），排放可能异常高，高风险高机会 |
+| [SN44](subnets/SN44-score.md) | **Score** | Alpha价格0.0312，$45M市值，较大排放 |
 
 ---
 
@@ -57,11 +133,15 @@ Cartha(35)、Aurelius(37)、Colosseum(38)、Chunking(40)、Almanac(41)、Graphit
 
 | 子网 | 原因 |
 |------|------|
-| [SN64 Chutes](subnets/SN64-chutes.md) | Rayon 垄断 23.7% 排放，8000+ 节点 |
-| [SN03 τemplar](subnets/SN03-templar.md) | H100 集群，机构级竞争 |
-| [SN51 Lium](subnets/SN51-lium-celium.md) | 500+ H100 已入网，饱和 |
-| [SN19 Nineteen](subnets/SN19-nineteen.md) | Rayon 控制，超苛刻延迟要求 |
-| SN72/78/82/84/117/118 | Deregistration 风险名单 |
+| [SN64 Chutes](subnets/SN64-chutes.md) | Rayon 垄断排放，外部矿工系统性劣势 |
+| [SN56 Gradient](subnets/SN56-gradient.md) | Rayon Labs 旗下，与SN64同一主体 |
+| [SN03](subnets/SN03-templar.md) | ⚠️ taostats显示"deprecat..."，疑似废弃，原τemplar已消失 |
+| [SN19](subnets/SN19-nineteen.md) | 原Rayon旗下Nineteen已更名为blockmac，机制未知，需重新评估 |
+| SN51 lium.io | 500+ H100已入网，消费级GPU无竞争力（名称已验证：lium.io，Alpha 0.0501） |
+| SN39/SN81 | taostats显示"Deprecated"，已废弃 |
+| SN28 | 原Foundry Oracle，当前显示Unknown，无运营方 |
+| SN55/SN57/SN78/SN82/SN84/SN117/SN118 | Deregistration 风险名单 |
+| SN104 | taostats显示"for sale"，子网空置 |
 
 ---
 
@@ -150,13 +230,20 @@ btcli subnet lock_cost --netuid 7  # SN07示例
 btcli subnet register --netuid 7 --wallet.name myminer
 ```
 
-**步骤5：启动矿工（以 SN07 为例）**
+**步骤5：启动矿工（以 SN22 Desearch 为例，当前推荐）**
 ```bash
-git clone https://github.com/eclipsevortex/SubVortex
-cd SubVortex
-pip install -r requirements.txt
-python neurons/miner.py --wallet.name myminer --wallet.hotkey default
+# SN22 Desearch - 需 Twitter API 访问权限
+# 查询当前 GitHub：搜索 "Desearch Bittensor SN22"
+# 或访问 https://taostats.io/subnets/22/metagraph 找到官方链接
+
+# SN07 Allways（需锁定TAO作抵押，高风险）
+git clone https://github.com/entrius/allways
+cd allways
+cp .env.example .env  # 配置 PORT 和 WALLET_PATH
+docker compose up miner
 ```
+
+> ⚠️ **注意**：SN07 已从 SubVortex（CPU节点）变为 Allways（跨链交换），需要锁定 TAO 作为抵押品，存在 Slashing 风险，不再是纯被动收入。
 
 ---
 

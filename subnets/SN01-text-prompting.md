@@ -1,15 +1,21 @@
-# SN01 - Text Prompting (Apex)
+# SN01 - Apex（原 Text Prompting）
+
+## ⚠️ 数据修正说明
+> **2026年4月14日 taostats.io 验证**：SN01 当前名称为 **Apex**（Alpha 价格 0.0112），原记录 **Text Prompting**（OTF）已更名或更换运营方。
+
+---
 
 ## 基本信息
 | 字段 | 数据 |
 |------|------|
 | UID | SN01 |
-| 名称 | Text Prompting / Apex |
-| 运营方/团队 | Opentensor Foundation (OTF) |
-| 子网类型 | LLM推理 / 对话 |
-| GitHub | https://github.com/opentensor/text-prompting |
-| 官网 | https://bittensor.com |
-| 子网状态 | 活跃 |
+| 原名称 | Text Prompting（原运营方：Opentensor Foundation） |
+| **当前名称** | **Apex** |
+| 运营方/团队 | 待确认（需访问 taostats.io/subnets/1） |
+| 子网类型 | 待确认（原为LLM推理/对话） |
+| GitHub | https://github.com/opentensor/text-prompting（原链接） |
+| 官网 | — |
+| 子网状态 | 活跃（Alpha 价格 0.0112） |
 
 ## 功能描述
 

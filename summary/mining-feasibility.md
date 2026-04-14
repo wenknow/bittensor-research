@@ -1,61 +1,62 @@
 # Bittensor 全子网挖矿可行性矩阵
 
-> 2026年4月 | 图例：🟢立即可参与 | 🟡有条件可参与 | 🔴不建议 | ⚫信息不足
+> 2026年4月14日 | 图例：🟢立即可参与 | 🟡有条件可参与 | 🔴不建议 | ⚫信息不足/已变更
+
+> ⚠️ **2026年4月14日重大更新**：SN01-SN34 绝大多数子网已更换运营方，可行性评级大范围失效。
 
 ---
 
-## 快速筛选：🟢 立即可参与子网
+## 快速筛选：🟢 当前确认可参与子网（2026年4月14日）
 
-| UID | 名称 | 类型 | 最低硬件 | 月净收益估算 | 难度 |
-|-----|------|------|----------|-------------|------|
-| **SN07** | SubVortex | 基础设施节点 | **CPU VPS** | $130-780 | ★★☆ |
-| **SN13** | Dataverse | 数据采集 | **CPU+存储** | $130-1,650 | ★★☆ |
-| **SN21** | Omega Storage | 去中心化存储 | **CPU+大存储** | $120-1,600 | ★★☆ |
-| **SN22** | Desearch | 社交数据 | **CPU+API** | $50-1,500 | ★★☆ |
-| **SN42** | Masa | 数据采集 | **CPU** | $90-1,600 | ★★☆ |
-| **SN27** | NI Compute | GPU算力 | **RTX3090(自有)** | $390-3,070 | ★★★☆ |
-| **SN30** | Bettensor | 体育预测 | **CPU** | $0-1,300 | ★★☆ |
+| UID | 当前名称 | 类型 | 最低硬件 | 状态 |
+|-----|---------|------|----------|------|
+| **SN22** | **Desearch** | 社交数据 | **CPU+API** | ✅ 名称未变，可参与 |
+| **SN13** | **Data Universe** | 数据采集 | **CPU+存储** | ✅ 方向相似，可研究 |
+| **SN04** | **Targon** | GPU推理 | H100+TEE | ✅ 名称未变，企业级 |
+| **SN07** | **Allways** | 跨链交换 | CPU+TAO抵押 | ⚠️ 需锁定TAO，有风险 |
+
+> **原 🟢 列表中 SN21/SN27/SN30/SN42 的ROI数据均已失效，需重新评估。**
 
 ---
 
 ## 完整可行性矩阵
 
-### SN01 - SN32
+### SN01 - SN32（2026年4月14日全量更新）
 
-| UID | 名称 | 可行性 | 门槛 | 关键条件 |
-|-----|------|--------|------|----------|
-| SN01 | Text Prompting | 🔴 | A100+ | OTF主导，竞争极激烈 |
-| SN02 | Omron | 🟡 | RTX3090 | ZK技术门槛 |
-| SN03 | τemplar | 🔴 | H100集群 | 机构级竞争，$135M市值 |
-| SN04 | Targon | 🔴 | H100+TEE | 企业级，$92M市值 |
-| SN05 | OpenKaito | 🟡 | CPU+大存储 | 需要Web3数据索引 |
-| SN06 | Nous Research | 🔴 | A100×4+ | Nous团队优势 |
-| SN07 | **SubVortex** | 🟢 | **CPU VPS** | 运行Subtensor节点 |
-| SN08 | Taoshi | 🟡 | CPU+$248/月API | 需优质预测模型 |
-| SN09 | Pre-Training | 🔴 | H100×8+ | AI机构垄断 |
-| SN10 | Apollo ZK | 🟡 | RTX3090+CPU | ZK技术门槛 |
-| SN11 | Transcription | 🟡 | **RTX3060(8GB)** | Whisper，相对友好 |
-| SN12 | ComputeHorde | 🟡 | **A6000(当前)** | 仅A6000支持 |
-| SN13 | **Dataverse** | 🟢 | **CPU+存储** | 爬虫技术 |
-| SN14 | LLM Defender | 🟡 | RTX3060 | AI安全知识 |
-| SN15 | Blockchain Insights | 🟡 | CPU+10TB存储 | 需运行全节点 |
-| SN16 | BitAds | 🟡 | **CPU（需流量）** | 需真实网络流量 |
-| SN17 | ThreeGen | 🟡 | RTX3080(16GB) | 3D生成 |
-| SN18 | Cortex.T | 🟡 | A100 | 多任务要求 |
-| SN19 | Nineteen | 🔴 | H100+数据中心网 | Rayon垄断 |
-| SN20 | BitAgent | 🟡 | RTX3080 | LLM代理能力 |
-| SN21 | **Omega Storage** | 🟢 | **CPU+存储** | 存储容量决定收益 |
-| SN22 | **Desearch** | 🟢 | **CPU+Twitter API** | API访问权限 |
-| SN23 | NicheImage | 🟡 | RTX3080(16GB) | 图像生成 |
-| SN24 | Omega Labs | 🟡 | CPU+大带宽 | 视频内容资源 |
-| SN25 | Hivetrain | 🔴 | H100多卡 | 分布式训练机构 |
-| SN26 | Image Alchemy | 🟡 | RTX3080 | 自有GPU更佳 |
-| SN27 | **NI Compute** | 🟢 | **RTX3090(自有)** | 不支持VastAI |
-| SN28 | Foundry Oracle | 🟡 | CPU+数据API | 量化金融能力 |
-| SN29 | Fractal | 🟡 | RTX4090/A100 | 视频生成 |
-| SN30 | **Bettensor** | 🟢 | **CPU** | 需体育预测能力 |
-| SN31 | NAS Chain | 🔴 | RTX3080 | 排放太低 |
-| SN32 | Its-AI | 🟡 | RTX3060(8GB) | AI内容检测 |
+| UID | 当前名称（taostats验证） | 原名称 | 可行性 | 备注 |
+|-----|------------------------|--------|--------|------|
+| SN01 | **Apex** | Text Prompting | 🔴 | 已更换，机制未知 |
+| SN02 | **DSperse** | Omron | ⚫ | 已更换，需重调研 |
+| SN03 | **deprecat...** | τemplar | 🔴 | ⚠️ 疑似废弃，高风险 |
+| SN04 | **Targon** ✅ | Targon | 🔴 | 企业级，H100+TEE |
+| SN05 | **Hone** | OpenKaito | ⚫ | 已更换，需重调研 |
+| SN06 | **Numinous** | Nous Research | ⚫ | 已更换，需重调研 |
+| SN07 | **Allways** ✅ | SubVortex | 🟡 | 需锁定TAO抵押，有Slashing风险 |
+| SN08 | **Vanta** | Taoshi | ⚫ | 已更换，旧金融预测数据失效 |
+| SN09 | **iota** | Pre-Training | ⚫ | 已更换，需重调研 |
+| SN10 | **Swap** | Apollo ZK | ⚫ | 已更换，需重调研 |
+| SN11 | **Trajecto...** | Transcription | ⚫ | 已更换，需重调研 |
+| SN12 | **Compute...** | ComputeHorde | ⚫ | 可能改名，需确认 |
+| SN13 | **Data Universe** ✅ | Dataverse | 🟢 | **方向相似，可参与** |
+| SN14 | **TAOHash** | LLM Defender | ⚫ | 已更换，需重调研 |
+| SN15 | **ORO** | Blockchain Insights | ⚫ | 已更换，需重调研 |
+| SN16 | **BitAds** ✅ | BitAds | 🟡 | 名称一致，需真实流量 |
+| SN17 | **404—GEN** | ThreeGen | ⚫ | 已更换，需重调研 |
+| SN18 | **Zeus** | Cortex.T | ⚫ | 已更换，需重调研 |
+| SN19 | **blockmac...** | Nineteen（Rayon） | ⚫ | 已更换，Rayon可能已离开 |
+| SN20 | **GroundLa...** | BitAgent | ⚫ | 已更换，需重调研 |
+| SN21 | **AdTAO** | Omega Storage | ⚫ | 已更换，旧存储方案失效 |
+| SN22 | **Desearch** ✅ | Desearch | 🟢 | **名称未变，CPU可参与** |
+| SN23 | **Trishool** | NicheImage | ⚫ | 已更换，需重调研 |
+| SN24 | **Quasar** | Omega Labs | ⚫ | 已更换，需重调研 |
+| SN25 | **Mainfram...** | Hivetrain | ⚫ | 已更换，需重调研 |
+| SN26 | **Kinitro** | Image Alchemy | ⚫ | 已更换，需重调研 |
+| SN27 | **Nodexo** | NI Compute | ⚫ | 已更换，机制未知 |
+| SN28 | **Unknown** | Foundry Oracle | 🔴 | 无运营方，不建议参与 |
+| SN29 | **Coldint** | Fractal | ⚫ | 已更换，需重调研 |
+| SN30 | **Pending** | Bettensor | 🔴 | 正在交接，暂不参与 |
+| SN31 | **Halftime** | NAS Chain | ⚫ | 已更换，需重调研 |
+| SN32 | **ItsAI** ✅ | Its-AI | 🟡 | 名称基本一致，需确认 |
 
 ### SN33 - SN64
 

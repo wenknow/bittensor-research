@@ -1,15 +1,22 @@
-# SN25 - Hivetrain
+# SN25 - Mainfram...（原 Hivetrain）
+
+## ⚠️ 数据修正说明
+> **2026年4月14日 taostats.io 验证**：SN25 当前名称为 **Mainfram...（完整名称待确认，可能为 Mainframe 或类似）**，原记录 **Hivetrain** 已不在此 UID。
+> ROI 数据完全失效，需重新评估。
+
+---
 
 ## 基本信息
 | 字段 | 数据 |
 |------|------|
 | UID | SN25 |
-| 名称 | Hivetrain |
-| 运营方/团队 | bit-current / KMFODA |
-| 子网类型 | 分布式深度学习训练 |
-| GitHub | https://github.com/bit-current/DistributedTraining |
+| 原名称 | Hivetrain（原运营方：bit-current / KMFODA） |
+| **当前名称** | **Mainfram...（taostats 显示，完整名称待确认）** |
+| 运营方/团队 | 待确认（需访问 taostats.io/subnets/25） |
+| 子网类型 | 待确认 |
+| GitHub | 待确认 |
 | 官网 | — |
-| 子网状态 | 活跃（中低活跃度） |
+| 子网状态 | 活跃（Alpha 价格 0.0049） |
 
 ## 功能描述
 

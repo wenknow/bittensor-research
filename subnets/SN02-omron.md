@@ -1,15 +1,22 @@
-# SN02 - Omron
+# SN02 - DSperse（原 Omron）
+
+## ⚠️ 数据修正说明
+> **2026年4月14日 taostats.io 验证**：SN02 当前名称为 **DSperse**，原记录 **Omron**（Inference Labs）已不在此 UID。
+> 原 Omron 运营方已迁移或子网已被新项目接管。ROI 数据完全失效，需重新评估。
+
+---
 
 ## 基本信息
 | 字段 | 数据 |
 |------|------|
 | UID | SN02 |
-| 名称 | Omron |
-| 运营方/团队 | Inference Labs |
-| 子网类型 | ZK推理验证 / AI质押优化 |
-| GitHub | https://github.com/inference-labs-inc/omron-subnet |
+| 原名称 | Omron（原运营方：Inference Labs） |
+| **当前名称** | **DSperse** |
+| 运营方/团队 | 待确认（需访问 taostats.io/subnets/2） |
+| 子网类型 | 待确认 |
+| GitHub | 待确认 |
 | 官网 | — |
-| 子网状态 | 活跃 |
+| 子网状态 | 活跃（Alpha 价格 0.0087） |
 
 ## 功能描述
 

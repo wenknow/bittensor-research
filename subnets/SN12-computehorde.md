@@ -1,15 +1,22 @@
-# SN12 - ComputeHorde
+# SN12 - Compute（原 ComputeHorde）
+
+## ⚠️ 数据修正说明
+> **2026年4月14日 taostats.io 验证**：SN12 taostats 页面标题显示 **"Compute..."**。可能是 ComputeHorde 的缩略显示，也可能已更名。
+> **需访问 taostats.io/subnets/12 确认当前完整名称和运营方。**
+
+---
 
 ## 基本信息
 | 字段 | 数据 |
 |------|------|
 | UID | SN12 |
-| 名称 | ComputeHorde |
-| 运营方/团队 | backend-developers-ltd |
-| 子网类型 | 分布式 GPU 算力 |
-| GitHub | https://github.com/backend-developers-ltd/ComputeHorde |
-| 官网 | https://computehorde.io |
-| 子网状态 | 活跃 |
+| 原名称 | ComputeHorde（原运营方：backend-developers-ltd） |
+| **当前名称** | **Compute...（taostats 显示，可能是 ComputeHorde 的缩略）** |
+| 运营方/团队 | 待确认（需访问 taostats.io/subnets/12） |
+| 子网类型 | 分布式 GPU 算力（若仍为 ComputeHorde） |
+| GitHub | https://github.com/backend-developers-ltd/ComputeHorde（原链接） |
+| 官网 | https://computehorde.io（原链接） |
+| 子网状态 | 活跃（Alpha 价格 0.0067） |
 
 ## 功能描述
 

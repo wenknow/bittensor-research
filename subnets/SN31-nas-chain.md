@@ -1,15 +1,22 @@
-# SN31 - NAS Chain
+# SN31 - Halftime（原 NAS Chain）
+
+## ⚠️ 数据修正说明
+> **2026年4月14日 taostats.io 验证**：SN31 当前名称为 **Halftime**，原记录 **NAS Chain**（nimaaghli）已不在此 UID。
+> ROI 数据完全失效，需重新评估。
+
+---
 
 ## 基本信息
 | 字段 | 数据 |
 |------|------|
 | UID | SN31 |
-| 名称 | NAS Chain |
-| 运营方/团队 | nimaaghli |
-| 子网类型 | 神经架构搜索 (NAS) |
-| GitHub | https://github.com/nimaaghli/NASChain |
+| 原名称 | NAS Chain（原运营方：nimaaghli） |
+| **当前名称** | **Halftime** |
+| 运营方/团队 | 待确认（需访问 taostats.io/subnets/31） |
+| 子网类型 | 待确认 |
+| GitHub | 待确认 |
 | 官网 | — |
-| 子网状态 | 活跃（低活跃度） |
+| 子网状态 | 活跃（Alpha 价格 0.0043） |
 
 ## 功能描述
 

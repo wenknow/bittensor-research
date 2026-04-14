@@ -1,15 +1,22 @@
-# SN24 - Omega Labs
+# SN24 - Quasar（原 Omega Labs）
+
+## ⚠️ 数据修正说明
+> **2026年4月14日 taostats.io 验证**：SN24 当前名称为 **Quasar**，原记录 **Omega Labs**（Omega Labs Inc）已不在此 UID。
+> ROI 数据完全失效，需重新评估。
+
+---
 
 ## 基本信息
 | 字段 | 数据 |
 |------|------|
 | UID | SN24 |
-| 名称 | Omega Labs |
-| 运营方/团队 | Omega Labs Inc |
-| 子网类型 | 大规模多模态数据集创建 |
-| GitHub | https://github.com/omegalabsinc/omegalabs-bittensor-subnet |
+| 原名称 | Omega Labs（原运营方：Omega Labs Inc） |
+| **当前名称** | **Quasar** |
+| 运营方/团队 | 待确认（需访问 taostats.io/subnets/24） |
+| 子网类型 | 待确认 |
+| GitHub | 待确认 |
 | 官网 | — |
-| 子网状态 | 活跃 |
+| 子网状态 | 活跃（Alpha 价格 0.0147） |
 
 ## 功能描述
 

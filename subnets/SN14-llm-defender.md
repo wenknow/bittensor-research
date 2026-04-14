@@ -1,15 +1,22 @@
-# SN14 - LLM Defender
+# SN14 - TAOHash（原 LLM Defender）
+
+## ⚠️ 数据修正说明
+> **2026年4月14日 taostats.io 验证**：SN14 当前名称为 **TAOHash**，原记录 **LLM Defender**（ceterum1）已不在此 UID。
+> ROI 数据完全失效，需重新评估。
+
+---
 
 ## 基本信息
 | 字段 | 数据 |
 |------|------|
 | UID | SN14 |
-| 名称 | LLM Defender |
-| 运营方/团队 | ceterum1 |
-| 子网类型 | LLM 安全防护 |
-| GitHub | https://github.com/ceterum1/llm-defender-subnet |
+| 原名称 | LLM Defender（原运营方：ceterum1） |
+| **当前名称** | **TAOHash** |
+| 运营方/团队 | 待确认（需访问 taostats.io/subnets/14） |
+| 子网类型 | 待确认 |
+| GitHub | 待确认 |
 | 官网 | — |
-| 子网状态 | 活跃（低-中活跃度） |
+| 子网状态 | 活跃（Alpha 价格 0.0089） |
 
 ## 功能描述
 

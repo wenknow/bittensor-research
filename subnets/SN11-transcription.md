@@ -1,15 +1,22 @@
-# SN11 - Transcription (音频转文字)
+# SN11 - Trajecto（原 Transcription）
+
+## ⚠️ 数据修正说明
+> **2026年4月14日 taostats.io 验证**：SN11 当前名称为 **Trajecto...（完整名称待确认）**，原记录 **Transcription**（Cazure）已不在此 UID。
+> ROI 数据完全失效，需重新评估。
+
+---
 
 ## 基本信息
 | 字段 | 数据 |
 |------|------|
 | UID | SN11 |
-| 名称 | Transcription |
-| 运营方/团队 | Cazure |
-| 子网类型 | 语音识别 / 音频转文字 |
-| GitHub | https://github.com/Cazure8/transcription-subnet |
+| 原名称 | Transcription（原运营方：Cazure） |
+| **当前名称** | **Trajecto...（taostats 显示，完整名称待确认）** |
+| 运营方/团队 | 待确认（需访问 taostats.io/subnets/11） |
+| 子网类型 | 待确认 |
+| GitHub | 待确认 |
 | 官网 | — |
-| 子网状态 | 活跃（中低活跃度） |
+| 子网状态 | 活跃（Alpha 价格 0.0125） |
 
 ## 功能描述
 

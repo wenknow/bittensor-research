@@ -1,15 +1,22 @@
-# SN10 - Apollo ZK
+# SN10 - Swap（原 Apollo ZK）
+
+## ⚠️ 数据修正说明
+> **2026年4月14日 taostats.io 验证**：SN10 当前名称为 **Swap**，原记录 **Apollo ZK**（apollozkp）已不在此 UID。
+> ROI 数据完全失效，需重新评估。
+
+---
 
 ## 基本信息
 | 字段 | 数据 |
 |------|------|
 | UID | SN10 |
-| 名称 | Apollo ZK |
-| 运营方/团队 | apollozkp |
-| 子网类型 | 零知识证明协作计算 |
-| GitHub | https://github.com/apollozkp/zkp-subnet |
+| 原名称 | Apollo ZK（原运营方：apollozkp） |
+| **当前名称** | **Swap** |
+| 运营方/团队 | 待确认（需访问 taostats.io/subnets/10） |
+| 子网类型 | 待确认（原为零知识证明协作计算） |
+| GitHub | 待确认 |
 | 官网 | — |
-| 子网状态 | 活跃（低活跃度） |
+| 子网状态 | 活跃（Alpha 价格 0.0060） |
 
 ## 功能描述
 

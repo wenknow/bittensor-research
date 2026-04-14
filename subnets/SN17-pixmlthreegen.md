@@ -1,15 +1,22 @@
-# SN17 - PixML / ThreeGen
+# SN17 - 404—GEN（原 PixML / ThreeGen）
+
+## ⚠️ 数据修正说明
+> **2026年4月14日 taostats.io 验证**：SN17 当前名称为 **404—GEN**，原记录 **PixML / ThreeGen**（PlixML）已不在此 UID。
+> ROI 数据完全失效，需重新评估。
+
+---
 
 ## 基本信息
 | 字段 | 数据 |
 |------|------|
 | UID | SN17 |
-| 名称 | PixML / ThreeGen |
-| 运营方/团队 | PlixML |
-| 子网类型 | 3D 生成 / 扩散模型 |
-| GitHub | https://github.com/PlixML/pixel |
+| 原名称 | PixML / ThreeGen（原运营方：PlixML） |
+| **当前名称** | **404—GEN** |
+| 运营方/团队 | 待确认（需访问 taostats.io/subnets/17） |
+| 子网类型 | 待确认 |
+| GitHub | 待确认 |
 | 官网 | — |
-| 子网状态 | 活跃（中低活跃度） |
+| 子网状态 | 活跃（Alpha 价格 0.0148） |
 
 ## 功能描述
 
